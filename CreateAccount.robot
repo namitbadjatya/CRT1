@@ -4,6 +4,7 @@ Suite Setup                     Setup Browser
 Suite Teardown                  End suite
 
 #Editing in CRT
+#eDITING in Git
 *** Test Cases ***
 Create Account Growmore
     [Tags]                      Account                     New Account
